@@ -1,0 +1,1106 @@
+html{
+    overflow-x: hidden;
+}
+body{
+    margin: 0;
+    line-height: 0%;
+}
+/*section of page*/
+.rectangle9{
+    background: #DFE3EB 0% 0% no-repeat padding-box;
+    top: 0px;
+    left: 0px;
+    width: 1920px;
+    height: 918px;
+    opacity: 1;
+}
+.rectangle1{
+    position: absolute;
+    background: #EBEFF7 0% 0% no-repeat padding-box;
+    top: 0px;
+    left: 574px;
+    width: 1346px;
+    height: 918px;
+    float: left;
+}
+.rectangle15{
+    background: #EBEFF7 0% 0% no-repeat padding-box;
+    opacity: 1;
+    top: 2690px;
+    left: 1px;
+    width: 1919px;
+    height: 1010px;
+}
+.rectangle20{
+    background: #DFE3EB 0% 0% no-repeat padding-box;
+    opacity: 1;
+    top: 3700px;
+    left: 0px;
+    width: 1920px;
+    height: 1304px;
+}
+.rectangle29{
+    background: #EBEFF7 0% 0% no-repeat padding-box;
+    opacity: 1;
+    top: 5004px;
+    left: 0px;
+    width: 1920px;
+    height: 470px;
+}
+.rectangle30{
+    background: #DFE3EB 0% 0% no-repeat padding-box;
+    opacity: 1;
+    top: 5474px;
+    left: 0px;
+    width: 1920px;
+    height: 102px;
+}
+/* Images of rectangle9*/
+.first-image{
+    position:relative;
+    margin-right: auto;
+    top: 38px;
+    left: 142px;
+}
+.group6{
+    position: absolute;
+    top: 210px;
+    left: 142px;
+    bottom: 590px;
+    right: 1660px;
+    width: 118px;
+    height: 118px;
+    background: transparent ;
+    opacity: 1;
+    border: 1px solid #656565;
+    border-radius: 5%;
+}
+.group4{
+    position: absolute;
+    top: 368px;
+    left: 142px;
+    bottom: 432px;
+    right: 1660px;
+    width: 118px;
+    height: 118px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.group3{
+    position: absolute;
+    top: 526px;
+    left: 142px;
+    bottom: 274px;
+    right: 1660px;
+    width: 118px;
+    height: 118px;
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.group2{
+    position: absolute;
+    top: 684px;
+    left: 142px;
+    bottom: 116px;
+    right: 1660px;
+    width: 118px;
+    height: 118px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+/*big-headphones image*/
+.big-headphones {
+    position: absolute;
+    display: block;
+    margin: auto;
+    top: 170px;
+    left: -277px;
+    width: 563px;
+    height: 696px;
+    background: transparent ;
+    opacity: 1;
+}
+/* Content of rectangle1*/
+.nav-bar{
+    position: relative;
+    margin: auto;
+    text-align: left;
+    top: 57px;
+    left: 126px;
+    height: 25px;
+}
+.pocetna{
+    text-align: left;
+    font-size: 18px;
+    letter-spacing: 0.72px;
+    color: #656565;
+    opacity: 1;
+}
+.proizvodi{
+    padding-left: 48px;
+    font-size: 18px;
+    text-align: left;
+    letter-spacing: 0.72px;
+    color: #656565;
+    opacity: 1;
+}
+.rasprodaja{
+    padding-left: 48px;
+    font-size: 18px;
+    text-align: left;
+    letter-spacing: 0.72px;
+    color: #656565;
+    opacity: 1;
+}
+.akcija{
+    padding-left: 48px;
+    font-size: 18px;
+    text-align: left;
+    letter-spacing: 0.72px;
+    color: #656565;
+    opacity: 1;
+}
+.kontakt{
+    padding-left: 48px;
+    font-size: 18px;
+    text-align: left;
+    letter-spacing: 0.72px;
+    color: #656565;
+    opacity: 1;
+}
+.lupa{
+    font-size: 24px;
+    padding-left: 288px;
+    background: transparent;
+    opacity: 1;
+}
+.korpa{
+    font-size: 24px;
+    padding-left: 32.47px;
+    background: transparent;
+    opacity: 1;
+}
+.padajuci-meni{
+    font-size: 24px;
+    padding-left: 32.5px;
+    background: transparent;
+    opacity: 1;
+}
+.big-text{
+    position: relative;
+    font-size: 64px;
+    height: 94px;
+    text-align: left;
+    top: 216px;
+    left: 460px;
+}
+.small-text{
+    position: absolute;
+    overflow: hidden;
+    line-height: normal;
+    text-align: left;
+    font-size: 18px;
+    top: 290px;
+    left: 460px;
+    width: 522px;
+    height: 76px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.price{
+    position: relative;
+    text-align: left;
+    height: 74px;
+    font-size: 50px;
+    top: 400px;
+    left: -100px;
+    color: #FF9300;
+}
+.increase-decrease{
+    position: relative;
+    top: 360px;
+    left:750px;
+    width: 133px;
+    height: 50px;
+    border: 1px solid #9C9C9C;
+    border-radius: 8px;
+  }
+  
+  .value-button {
+    display: inline-block;
+    font-size: 28px;
+    color: #9C9C9C;
+    opacity: 1;
+    margin: 0px;
+    width: 40px;
+    text-align: center;
+    /*vertical-align: middle;*/
+    background: #eee;
+  }
+  
+  .value-button:hover {
+    cursor: pointer;
+  }
+  
+  form #decrease {
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+  }
+  
+  form #increase {
+    margin-left: -4px;
+
+    border-radius: 0 8px 8px 0;
+  }
+  
+  form #input-wrap {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  input#number {
+    text-align: center;
+    border: none;
+    font-size: 24px;
+    background: transparent;
+    margin: 0px;
+    width: 40px;
+    color: #4B4B4B;
+    opacity: 1;
+    height: 40px;
+  }
+  
+  input[type=number]::-webkit-inner-spin-button,
+  input[type=number]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+  }
+.kupi1{
+    position: absolute;
+    width: 213px;
+    left: 460px;
+    top: 510px;
+    height: 61px;
+    background: #FF9300;
+    border: 1px solid #00000029;
+    border-radius: 8px;
+    text-align: center;
+  }
+.kupi{
+    position:relative;
+    top: 30.5px;
+    font-size: 24px;
+    letter-spacing: 1.44px;
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center;
+}
+.dodaj-u-korpu1{
+    position: absolute;
+    top: 510px;
+    left: 700px;
+    width: 247px;
+    height: 61px;
+    border: 1px solid #FF9300;
+    border-radius: 8px;
+    text-align: center;
+}
+.dodaj-u-korpu{
+    position: relative;
+    top: 30.5px;
+    font-size: 24px;
+    letter-spacing: 1.44px;
+    color: #FF9300;
+    opacity: 1;
+}
+.checked{
+    color: #FFC107;
+    position: relative;
+    left: 460px;
+    top: 90px;
+}
+.no-checked{
+    position: relative;
+    color: #CCCCCC;
+    left: 460px;
+    top: 90px;
+}
+.user{
+    position: relative;
+    top: 520px;
+    left: 370px;
+}
+.user-text{
+    position:absolute;
+    font-size: 16px;
+    top: 622px;
+    left: 482px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.lager{
+    position: relative;
+    top: 550px;
+    left: 352px;
+}
+.lager-text{
+    position:absolute;
+    font-size: 16px;
+    top: 651px;
+    left: 482px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.facebook{
+    position: absolute;
+    top: 340px;
+    left: 1220px;
+}
+.instagram{
+    position:absolute;
+    top: 400px;
+    left: 1220px;
+}
+.linkedln{
+    position:absolute;
+    top: 460px;
+    left: 1220px;
+}
+/*Velika-slika1*/
+.velika-slika1{
+    position: relative;
+    width: 1920px;
+    height: 885px;
+}
+.text-1{
+    position: absolute;
+    top: 269px;
+    left: 174px;
+    width: 606px;
+    height: 61px;
+}
+.hr1{
+    position: relative;
+    top: 61px;
+    border-color: #656565;
+    margin: 0;
+    border: 1;
+}
+.hr2{
+    position: relative;
+    top: 58px;
+    height: 2px;
+    width: 95px;
+    border-color: #FF9300;
+    background: #FF9300;
+    margin: 0;
+    border: 1;
+}
+.opis{
+    position:absolute;
+    font-size: 24px;
+    left: 24px;
+    bottom: 40px;
+    text-align: left;
+    letter-spacing: 0.96px;
+    color: #000000;
+    opacity: 1;
+}
+.specifikacije{
+    position:absolute;
+    font-size: 24px;
+    left: 210px;
+    bottom: 40px;
+    text-align: left;
+    letter-spacing: 0.96px;
+    color: #000000;
+    opacity: 1;
+}
+.ostalo{
+    position:absolute;
+    font-size: 24px;
+    left: 500px;
+    bottom: 40px;
+    text-align: left;
+    letter-spacing: 0.96px;
+    color: #000000;
+    opacity: 1;
+}
+.under-hr-1{
+    position: absolute;
+    overflow: hidden;
+    line-height: normal;
+    text-align: left;
+    font-size: 18px;
+    top: 100px;
+    left: 0px;
+    width: 578px;
+    height: 76px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.under-hr-2{
+    position: absolute;
+    overflow: hidden;
+    line-height: normal;
+    text-align: left;
+    font-size: 18px;
+    top: 200px;
+    left: 0px;
+    width: 578px;
+    height: 49px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.under-hr-3{
+    position: absolute;
+    overflow: hidden;
+    line-height: normal;
+    text-align: left;
+    font-size: 18px;
+    top: 280px;
+    left: 0px;
+    width: 578px;
+    height: 76px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+
+/*Velika-slika2*/
+.velika-slika2{
+    position: relative;
+    width: 1920px;
+    height: 887px;
+}
+.big-text-span{
+    position:relative;
+    top: -650px;
+    line-height: normal;
+    left: 1034px;
+    text-align: left;
+    font-size: 50px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.small-text-under-big{
+    position: absolute;
+    overflow: hidden;
+    line-height: normal;
+    text-align: left;
+    font-size: 18px;
+    top: 407px;
+    left: 1034px;
+    width: 578px;
+    height: 130px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.kupi3{
+    position: absolute;
+    width: 213px;
+    left: 1034px;
+    top: 577px;
+    height: 61px;
+    background: #FF9300;
+    border: 1px solid #00000029;
+    border-radius: 8px;
+    text-align: center;
+}
+.kupi2{
+    position:relative;
+    top: 30.5px;
+    font-size: 24px;
+    letter-spacing: 1.44px;
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center;
+}
+.dodaj-u-korpu3{
+    position: absolute;
+    top: 577px;
+    left: 1272px;
+    width: 247px;
+    height: 61px;
+    border: 1px solid #FF9300;
+    border-radius: 8px;
+    text-align: center;
+}
+.dodaj-u-korpu2{
+    position: relative;
+    top: 30.5px;
+    font-size: 24px;
+    letter-spacing: 1.44px;
+    color: #FF9300;
+    opacity: 1;
+}
+
+/*RECTANGLE15*/
+.big-text-3{
+    position:relative;
+    top: 128px;
+    line-height: normal;
+    left: 782px;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.litle-text{
+    position: absolute;
+    overflow: hidden;
+    line-height: normal;
+    text-align: center;
+    font-size: 18px;
+    top: 2900px;
+    left: 661px;
+    width: 596px;
+    height: 49px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.div-for-images{
+    position: relative;
+    width: 1919px;
+    height: 394px;
+    top: 339px;
+}
+.mask-group-8{
+    position:absolute;
+    left: 141px;
+    width: 394px;
+    height: 394px;
+}
+.mask-group-9{
+    position:absolute;
+    left: 555px;
+    width: 394px;
+    height: 394px;
+}
+.mask-group-10{
+    position:absolute;
+    left: 969px;
+    width: 394px;
+    height: 394px;
+}
+.mask-group-11{
+    position:absolute;
+    left: 1383px;
+    width: 394px;
+    height: 394px;
+}
+.div-for-names{
+    position: relative;
+    width: 1919px;
+    height: 53px;
+    top: 340px;
+}
+.slusalice1{
+    position:absolute;
+    line-height: 36px;
+    width: 380px;
+    height: 53px;
+    left: 161px;
+    font-size: 36px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.slusalice2{
+    position:absolute;
+    line-height: 36px;
+    width:200px;
+    height: 53px;
+    left: 667px;
+    font-size: 36px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.slusalice3{
+    position:absolute;
+    line-height: 36px;
+    width: 300px;
+    height: 53px;
+    left: 1040px;
+    font-size: 36px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.slusalice4{
+    position:absolute;
+    line-height: 36px;
+    width: 3500px;
+    height: 53px;
+    left: 1417px;
+    font-size: 36px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.div-for-price{
+    position: relative;
+    width: 1919px;
+    height: 74px;
+    top: 355px;
+}
+.cijena1{
+    position:absolute;
+    line-height: 50px;
+    width: 220px;
+    height:74px;
+    left: 256px;
+    font-size: 50px;
+    letter-spacing: 0px;
+    color: #FF9300;
+    opacity: 1;
+}
+.cijena2{
+    position:absolute;
+    line-height: 50px;
+    width: 220px;
+    height:74px;
+    left: 666px;
+    font-size: 50px;
+    letter-spacing: 0px;
+    color: #FF9300;
+    opacity: 1;
+}
+.cijena3{
+    position:absolute;
+    line-height: 50px;
+    width: 220px;
+    height:74px;
+    left: 1079px;
+    font-size: 50px;
+    letter-spacing: 0px;
+    color: #FF9300;
+    opacity: 1;
+}
+.cijena4{
+    position:absolute;
+    line-height: 50px;
+    width: 220px;
+    height:74px;
+    left: 1498px;
+    font-size: 50px;
+    letter-spacing: 0px;
+    color: #FF9300;
+    opacity: 1;
+}
+/*RECTANGLE20*/
+.big-text-4{
+    position:relative;
+    height: 160px;
+    top: 128px;
+    line-height: normal;
+    left: 757px;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.big-headphones2{
+    position: absolute;
+    /*display: block;*/
+    /*margin: auto;*/
+    top: 4070px;
+    left: 300px;
+    width: 670px;
+    height: 670px;
+    background: transparent ;
+    opacity: 1;
+}
+.ime-i-prezime{
+    position:relative;
+    font-size: 18px;
+    top: 240px;
+    left: 670px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.enter-ime-i-prezime{
+    position: relative;
+    font-size: 30px;
+    width: 394px;
+    height: 50px;
+    top: 290px;
+    left: 567px;
+    border-radius: 4px;
+    background: transparent;
+}
+.ulica-i-broj{
+    position:relative;
+    font-size: 18px;
+    top: 350px;
+    left: 162px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.enter-ulica-i-broj{
+    position: relative;
+    font-size: 30px;
+    width: 394px;
+    height: 50px;
+    top: 400px;
+    left: 75px;
+    border-radius: 4px;
+    background: transparent;
+}
+.grad{
+    position:relative;
+    font-size: 18px;
+    top: 460px;
+    left: -330px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.enter-grad{
+    position: relative;
+    font-size: 30px;
+    width: 394px;
+    height: 50px;
+    top: 510px;
+    left: -370px;
+    border-radius: 4px;
+    background: transparent;
+}
+.email-adressa{
+    position:relative;
+    font-size: 18px;
+    top: 455px;
+    left: 1116px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.enter-email-adressa{
+    position: relative;
+    font-size: 30px;
+    width: 394px;
+    height: 50px;
+    top: 505px;
+    left: 1010px;
+    border-radius: 4px;
+    background: transparent;
+}
+.broj-telefona{
+    position:relative;
+    font-size: 18px;
+    top: 565px;
+    left: 607px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.enter-broj-telefona{
+    position: relative;
+    font-size: 30px;
+    width: 394px;
+    height: 50px;
+    top: 615px;
+    left: 507px;
+    border-radius: 4px;
+    background: transparent;
+}
+.vasa-poruka-doatne-informacije{
+    position:relative;
+    font-size: 18px;
+    top: 680px;
+    left: 103px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.enter-vasa-poruka-doatne-informacije{
+    position: relative;
+    font-size: 30px;
+    width: 394px;
+    height: 162px;
+    top: 785px;
+    left: -140px;
+    border-radius: 4px;
+    background: transparent;
+    text-align: left;
+}
+.kupi5{
+    position: absolute;
+    width: 394px;
+    left: 1120px;
+    top: 4820px;
+    height: 61px;
+    background: #FF9300;
+    border: 1px solid #00000029;
+    border-radius: 8px;
+    text-align: center;
+}
+.kupi4{
+    position:relative;
+    top: 30.5px;
+    font-size: 24px;
+    letter-spacing: 1.44px;
+    color: #FFFFFF;
+    opacity: 1;
+    text-align: center;
+}
+.sigurna-kupovina-slika{
+    position: relative;
+    top: 1000px;
+    left: -420px;
+}
+.sigurna-kupovina{
+    position:absolute;
+    font-size: 16px;
+    top: 4908px;
+    left: 1265px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+/*RECTANGLE29*/
+.div-for-bold{
+    position: relative;
+    width: 1919px;
+    height: 22px;
+    top: 130px;
+}
+.kontakt-podrska{
+    position:absolute;
+    line-height: 18px;
+    width: 380px;
+    height: 22px;
+    left: 142px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.o-nama{
+    position:absolute;
+    line-height: 18px;
+    width: 380px;
+    height: 22px;
+    left: 694px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.pomoc{
+    position:absolute;
+    line-height: 18px;
+    width: 380px;
+    height: 22px;
+    left: 970px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.socijalne-mreze{
+    position:absolute;
+    line-height: 18px;
+    width: 380px;
+    height: 22px;
+    left: 1337px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.under-bold-1{
+    position: relative;
+    width: 1919px;
+    height: 22px;
+    top: 150px;
+}
+.adresa{
+    position:absolute;
+    line-height: 18px;
+    width: 380px;
+    height: 22px;
+    left: 142px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.dostava{
+    position:absolute;
+    line-height: 18px;
+    width: 380px;
+    height: 22px;
+    left: 694px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.kako-se-registrovati{
+    position:absolute;
+    line-height: 18px;
+    width: 380px;
+    height: 22px;
+    left: 970px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.facebook2{
+    position:absolute;
+    left: 1337px;
+}
+.instagram2{
+    position: absolute;
+    left: 1369px;
+}
+.linkdln2{
+    position: absolute;
+    left: 1401px;
+}
+.under-bold-2{
+    position: relative;
+    width: 1919px;
+    height: 22px;
+    top: 170px;
+}
+.e-mail{
+    position:absolute;
+    line-height: 18px;
+    width: 380px;
+    height: 22px;
+    left: 142px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.garancija{
+    position:absolute;
+    line-height: 18px;
+    width: 380px;
+    height: 22px;
+    left: 694px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.cesta-pitanja{
+    position:absolute;
+    line-height: 18px;
+    width: 380px;
+    height: 22px;
+    left: 970px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.under-bold-3{
+    position: relative;
+    width: 1919px;
+    height: 30px;
+    top: 190px;
+}
+.skype{
+    position:absolute;
+    line-height: 18px;
+    width: 380px;
+    height: 22px;
+    left: 142px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.nacin-placanja{
+    position:absolute;
+    line-height: 18px;
+    width: 380px;
+    height: 22px;
+    left: 694px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.uslovi-koristenja{
+    position:absolute;
+    line-height: 18px;
+    width: 380px;
+    height: 22px;
+    left: 970px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.ihave3{
+    position: absolute;
+    left: 1337px;
+    height: 30px;
+    width: 120px;
+}
+.male-slusalice{
+    position: absolute;
+    top: 5350px;
+    left: 142px;
+}
+.soo-small-text{
+    position: absolute;
+    font-size: 12px;
+    top: 5360px;
+    left: 190px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+.broj-tel{
+    position: absolute;
+    font-size: 19px;
+    top: 5380px;
+    left: 190px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+/*RECTANGLE30*/
+.div-for-copyright{
+    position: relative;
+    width: 1919px;
+    height: 22px;
+    top: 40px;
+}
+.copyright{
+    position:absolute;
+    line-height: 18px;
+    width: 700px;
+    height: 22px;
+    left: 141px;
+    font-size: 18px;
+    letter-spacing: 0px;
+    color: #656565;
+    opacity: 1;
+}
+
+
+
+
+
+
